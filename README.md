@@ -27,6 +27,7 @@ A comprehensive report detailing my inquiries and findings.
 The datasets used for analysis.
 The SQL worksheet showcasing my analytical process.
 A presentation summarizing the project's objectives and key findings.
+Jupyter notebook with visualizations.
 
 Feel free to explore my findings and join the discussion on the age-old question: are leaders born or made?
 
