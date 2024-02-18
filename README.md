@@ -24,7 +24,7 @@ Oracle SQL Developer
 In this repository, you'll find:
 
 A comprehensive report detailing my inquiries and findings.
-The datasets used for analysis.
+The datasets used for analysis (F500, F500 CEO Add, fullf500).
 The SQL worksheet showcasing my analytical process.
 A presentation summarizing the project's objectives and key findings.
 Jupyter notebook with visualizations.
